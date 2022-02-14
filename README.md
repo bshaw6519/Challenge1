@@ -12,35 +12,7 @@ The heading attributes now are in sequential order. The title element was update
 ![App Screenshot](https://raw.githubusercontent.com/bshaw6519/Challenge1/main/assets/images/horiseon%20screenshot%20page.png
 )
 
+URL Link to Live Site
 
-
-## Documentation
-
-[Documentation](https://linktodocumentation)
-
-
-## Features
-
-- Light/dark mode toggle
-- Live previews
-- Fullscreen mode
-- Cross platform
-
-
-## FAQ
-
-#### Question 1
-
-Answer 1
-
-#### Question 2
-
-Answer 2
-
-
-## Tech Stack
-
-**Client:** React, Redux, TailwindCSS
-
-**Server:** Node, Express
+https://bshaw6519.github.io/Challenge1/
 
